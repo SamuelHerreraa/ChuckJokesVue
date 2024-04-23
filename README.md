@@ -1,25 +1,23 @@
-# actividad12
+# Chuck Norris Jokes App
 
-## Project setup
-```
-npm install
-```
+Esta aplicación muestra una lista de chistes de Chuck Norris. Fue desarrollada usando Vue.js para demostrar el uso de componentes, directivas y manejo de estado básico en Vue.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Características
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- **Lista de Chistes**: Muestra chistes de Chuck Norris obtenidos de un arreglo estático.
+- **Diseño Responsivo**: Interfaz simple y responsive que se adapta a diferentes dispositivos.
+- **Estilos Elegantes**: Utiliza CSS para mejorar la visualización de los chistes.
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Tecnologías Utilizadas
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# ChuckJokesVue
+- Vue.js
+- HTML5
+- CSS3
+
+## Instalación
+
+Para ejecutar esta aplicación en tu máquina local, sigue estos pasos:
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/ChuckJokesVue.git
